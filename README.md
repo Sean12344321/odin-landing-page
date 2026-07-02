@@ -1,0 +1,1 @@
+This is HTML+CSS project, a beautiful page on regular computer screen, but not responsive. In other word, looks awful in mobile devices.
